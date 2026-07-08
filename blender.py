@@ -3,14 +3,6 @@ import numpy as np
 
 
 class ImageBlender:
-    """
-    Класс обработки:
-    - хранит два изображения
-    - автоматически подгоняет второе под первое (cv2.resize)
-    - генерирует горизонтальную градиентную маску
-    - смешивает: res = img1 * mask + img2 * (1 - mask)
-    """
-
     def __init__(self):
         self.img1 = None
         self.img2 = None
