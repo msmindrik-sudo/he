@@ -36,4 +36,4 @@ python BlendApp.py
 ![alt text](Screenshots/Image1.png)
 
 ### Вкладка «Результат»
-![alt text](Screenshots/Image3.png)
+![alt text](Screenshots/Image2.png)
